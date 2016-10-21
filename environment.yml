@@ -11,8 +11,3 @@ dependencies:
   - xlrd
   - scikit-learn
   - jupyter
-  - pip:
-    - beautifulsoup4
-    - glypy
-    - hjson
-    - mechanize
