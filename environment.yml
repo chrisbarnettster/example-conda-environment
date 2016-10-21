@@ -1,13 +1,18 @@
-name: example-environment
+name: array-analysis-environment
 
 dependencies:
-  - python=3.4
+  - python=2.7
   - numpy
-  - toolz
+  - pil
   - matplotlib
-  - dill
   - pandas
-  - partd
+  - seaborn
   - bokeh
+  - xlrd
+  - scikit-learn
+  - jupyter
   - pip:
-    - git+https://github.com/blaze/dask.git#egg=dask[complete]
+    - beautifulsoup4
+    - glypy
+    - hjson
+    - mechanize

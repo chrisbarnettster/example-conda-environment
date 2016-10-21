@@ -1,6 +1,8 @@
 # Example Binder with environment.yml
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-conda-environment)
+Testing with libraries I like to use for array analysis. 
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/chrisbarnettster/example-conda-environment)
 
 A Binder-compatibible repo with an `environment.yml` file.
 
